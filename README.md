@@ -1,4 +1,4 @@
 # Crop-Disease-Detection-and-Diagnosis
 Senior Project: An app and website in which users are able use our machine learning model to detect crop diseases via uploading an image of the diseased crop's leaf.
 
-Website: Coded in React JS using Google Firebase as a development platorm. 
+Website: Coded in React JS using Google Firebase as a development platorm. To run the website locally, type "npm start" into the terminal, and to deploy, run "npm run build", then "firebase deploy". Deployment using these commands assumes one has already set up their deployment with Firebase and created necessary files, which has been done, of course. The website can also be visited by anyone by going to https://crop-diagnosis-detector.web.app . The website is already deployed at this URL and can be visited at any time, and properly used at any time so long as the machine learning model's Rasperry Pi is running. (running the model on a Pi, while limiting, was a requirement by our first sponsor. 
