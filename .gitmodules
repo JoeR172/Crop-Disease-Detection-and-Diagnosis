@@ -1,0 +1,3 @@
+[submodule "Crop_Diagnosis_Website"]
+	path = Crop_Diagnosis_Website
+	url = https://github.com/JoeR172/Crop_Diagnosis_Website.git
