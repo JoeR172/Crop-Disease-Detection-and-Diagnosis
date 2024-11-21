@@ -1,3 +1,9 @@
 [submodule "Crop_Diagnosis_Website"]
 	path = Crop_Diagnosis_Website
 	url = https://github.com/JoeR172/Crop_Diagnosis_Website.git
+[submodule "CropDocApp_AnikethBharadwaj"]
+	path = CropDocApp_AnikethBharadwaj
+	url = https://github.com/anikbharadwaj129/CropDocApp.git
+[submodule "CropDocML_GustavoDL"]
+	path = CropDocML_GustavoDL
+	url = https://github.com/gustavodelevante/capstone
