@@ -4,3 +4,5 @@ Website (Joseph Reese): Website coded in React JS, using Google Firebase as a de
 will rebuild and deploy the website to the web. This has, of course, been done already pre-Final Demo. The website may be visited at any time at the URL: https://crop-diagnosis-detector.web.app 
 The use of the machine learning model is limited to when the Rasperry Pi it is hosted on is plugged in and running, however, this was an added requirement during 403 by our sponsor at the time, Sambandh, 
 for the machine learning subsystem. 
+
+Mobile App (Aniketh Bharadwaj): The mobile app was coded in React Native, and also uses Google Firebase for backend development. 
